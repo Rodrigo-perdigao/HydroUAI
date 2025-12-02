@@ -108,7 +108,7 @@ const hidrologia: Member[] = [
     description:
       "Engenheira civil com ampla experiência em projetos de recursos hídricos, como drenagem superficial, reservatórios e modelagem hidráulica",
     initials: "BS",
-    photo: "Bibiana.jpg",
+    photo: "Bibiana.jpeg",
   },
   {
     name: "David Jimenez Osorio",
