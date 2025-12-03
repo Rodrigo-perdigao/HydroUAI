@@ -21,8 +21,7 @@ const Projects = () => {
       status: "Em andamento"
      },
      {
-      title: "Assessing the potential of QPF Nowcasts for Machine Learning-based 
-Flood Forecasting",
+      title: "Assessing the potential of QPF Nowcasts for Machine Learning-based Flood Forecasting",
       period: "2025-Atual",
       funding: "Deltares",
       role: "Coordenador",
