@@ -16,13 +16,15 @@ export default function Home() {
         <div className="flex justify-center gap-4">
           <Link
             to="/projects"
-            className="inline-flex items-center gap-2 rounded-md px-6 py-3 bg-white text-primary font-medium shadow hover:shadow-md"
+            className="inline-flex items-center gap-2 rounded-md px-6 py-3 !bg-white !text-primary font-medium shadow hover:shadow-md !opacity-100"
+
           >
             Ver Projetos
           </Link>
           <Link
             to="/publications"
-              className="inline-flex items-center gap-2 rounded-md px-6 py-3 bg-white !text-primary !opacity-100 font-medium shadow hover:shadow-md"
+            className="inline-flex items-center gap-2 rounded-md px-6 py-3 !bg-white !text-primary font-medium shadow hover:shadow-md !opacity-100"
+
           >
             Publicações
           </Link>
