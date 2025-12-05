@@ -219,6 +219,12 @@ const hidraulica: Member[] = [
     initials: "DM",
   },
   {
+    name: "Gabriela Fleury",
+    description:
+      "Aluna de graduação em engenharia civil, com especialização em Engenharia Urbana pela EIVP, iniciação cientifica  na utilização de Soluções Baseadas na Natureza (SBNs) para aplicação na Bacia do Capão.",
+    initials: "GF",
+  },
+  {
     name: "Jordana Madeira Alaggio Ribeiro",
     description:
       "Pesquisa em modelagem hidráulica com ênfase em métodos computacionais e técnicas de IA",
@@ -286,6 +292,12 @@ const hidraulica: Member[] = [
     initials: "PC"
   }
   ,{
+    name: "Ruan Almeida Rocha Cosmo",
+    description:
+      "Previsão de Demanda para Otimização de Sistemas de Abastecimento de Água. Engenheiro Civil formado pela UFC. Mestrando em Recursos Hídricos (Departamento de Engenharia Hidráulica e Ambiental - DEHA/UFC).",
+    initials: "RC"
+  }
+  ,{
     name: "Rui Gabriel Modesto de Souza",
     description:
       "Otimização e modelagem hidráulica em sistemas de abastecimento de água",
@@ -303,6 +315,12 @@ const hidraulica: Member[] = [
       "Otimização e modelagem matemático-computacional de redes de distribuição de água",
     initials: "TA",
     photo: "Thomaz.jpeg"
+  }
+  ,{
+    name: "Vitória Maciel de Oliveira",
+    description:
+      "Aluna de graduação em Engenharia Ambiental com atuação em pesquisas sobre modelos hidrológicos voltados à estimativa de erosão e deposição de sedimentos em bacias hidrográficas.",
+    initials: "VO",
   }
 ];
 
