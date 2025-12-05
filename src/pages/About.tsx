@@ -104,6 +104,12 @@ const hidrologia: Member[] = [
     photo: "AnnaPerini.jpg",
   },
   {
+    name: "Beatriz Magalhães do Nascimento",
+    description:
+      "Aluna de graduação em Engenharia Ambiental com iniciação cientifica em caracterização e modelagem de eventos de seca.",
+    initials: "BN",
+  },
+  {
     name: "Bibiana Niederauer Soares",
     description:
       "Engenheira civil com ampla experiência em projetos de recursos hídricos, como drenagem superficial, reservatórios e modelagem hidráulica",
@@ -123,6 +129,18 @@ const hidrologia: Member[] = [
       "Graduando em Engenharia Ambiental com iniciação científica em modelagem hidrológica aplicada no Rio Grande do Sul",
     initials: "EC",
     photo: "Ernesto.jpg",
+  },
+  {
+    name: "Erickson Johny Galindo da Silva",
+    description:
+      "Doutorando em recursos hídricos, com atuação profissional no setor de mineração em modelagem hidrológica e hidrodinâmica, e pesquisa acadêmica direcionada à aplicação de inteligência artificial em modelagem hidrológica.",
+    initials: "ES",
+  },
+  {
+    name: "Gabriel Rodrigues Pereira",
+    description:
+      "Modelagem hidrológica de eventos extremos, previsão de vazões e estudo de Soluções Baseadas na Natureza (SBNs) ",
+    initials: "GP",
   },
   {
     name: "Gabriela Modesto Azevedo",
@@ -145,6 +163,12 @@ const hidrologia: Member[] = [
     photo: "Julia.jpg"
   }
   ,{
+    name: "Lorena Cesário",
+    description:
+      "Aluna de graduação em Engenharia Civil com iniciação cientifica na área de hidrologia e estudo de Soluções Baseadas na Natureza (SBNs) para aplicação na Bacia do Capão.",
+    initials: "LC",
+  }
+  ,{
     name: "Lorena Grochowski Sabino dos Santos",
     description:
       "Iniciação científica na área de hidrogeologia.",
@@ -157,6 +181,12 @@ const hidrologia: Member[] = [
       "Formada em engenharia ambiental pela UFMG e especialista em estruturas hidráulicas. Atualmente é mestranda pelo programa SMARH da UFMG, com atuação focada em eventos extremos, modelagem hidrológica e teoria de redes complexas",
     initials: "MK",
     photo: "MarinaK.jpg"
+  }
+  ,{
+    name: "Pedro Henrique Bernardes Solha",
+    description:
+      "Modelagem hidrológica com redes neurais artificiais, previsão de inundações, inteligência artificial explicável.",
+    initials: "PS",
   }
   ,{
     name: "Taís Fonte Boa de Campos Maia",
